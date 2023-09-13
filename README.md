@@ -1,6 +1,6 @@
-# Boot.dev Web Crawler Project
+# Web Crawler
 
-This [Boot.dev](https://boot.dev) guided project is a web crawler implemented in Node.js. The web crawler crawls a website and reports on the internal linking profile of the site.
+The Web Crawler is a Node.js project that crawls a website and reports on the internal linking profile of the site.
 
 ## Requirements
 
@@ -24,4 +24,4 @@ Run tests as follows:
 
 ## Boot.dev
 
-[Boot.dev](https://boot.dev) is a great resource for learning backend development. Please check out their courses if interested in a new career or wanting to level up your skills.
+The Web Crawler is a learning exercise I created while working through [Boot.dev](https://boot.dev) coursework. Boot.dev is a great resource for learning backend development. Please check out their courses if you're interested in learning to build similar projects.
