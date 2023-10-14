@@ -4,7 +4,7 @@ The Web Crawler is a Node.js project that crawls a website and reports on the in
 
 ## Requirements
 
-The app requires Node to run. All development and testing was done using Node `18.16.1`. Other versions may work but have not been tested.
+The app requires Node to run. All development and testing was completed using Node `18.16.1`. Other versions may work but have not been tested.
 
 ## Running the App
 
@@ -24,4 +24,4 @@ Run tests as follows:
 
 ## Boot.dev
 
-The Web Crawler is a learning exercise I created while working through [Boot.dev](https://boot.dev) coursework. Boot.dev is a great resource for learning backend development. Please check out their courses if you're interested in learning to build similar projects.
+I created this project while working through the coursework at [Boot.dev](https://boot.dev). Boot.dev is a great resource for learning backend development and is worth checking out if you're interested in building similar projects.
